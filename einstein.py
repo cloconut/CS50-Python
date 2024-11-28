@@ -1,5 +1,7 @@
-m = int(input("enter a number: "))
+input("what is your number: ")
+m = input
 c = 300000000
-e = m * c * c
-print("mass is equal to" + m)
-print("energy is equal to" + e)
+
+print("e=mc2")
+
+print(result)
